@@ -294,11 +294,19 @@ h1.big-title
 }
 
 
-
+.title-desc1
+{
+    font-family: 'PT Serif', serif;
+    font-size: 22px;
+    line-height: 26px;
+    max-width: 333px; 
+    margin: 0 auto;
+    color: #fff;
+}
 
 .title-desc
 {
-    font-family: 'PT Serif', serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px; 
